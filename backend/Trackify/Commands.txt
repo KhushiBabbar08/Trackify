@@ -1,0 +1,5 @@
+﻿Scaffolding Command
+dotnet ef dbcontext scaffold "Host=localhost;Port=5432;Database=trackify_db;Username=postgres;Password=pass@123" Npgsql.EntityFrameworkCore.PostgreSQL -o Entities -c TrackifyDbContext -f
+
+
+..

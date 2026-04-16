@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Trackify.Data/Trackify.Data.csproj" />
+  <Project Path="Trackify/Trackify.csproj" />
+</Solution>
