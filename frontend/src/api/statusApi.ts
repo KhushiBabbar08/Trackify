@@ -1,4 +1,4 @@
-const BASE_URL = "https://localhost:7289/api/Status";
+const BASE_URL = "http://localhost:5037/api/Status";
 
 export const getStatuses = async () => {
   const res = await fetch(`${BASE_URL}/SearchStatusMaster`, {
